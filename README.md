@@ -21,9 +21,9 @@ Currently learning: LLMs and local AI models.
 | :--- | :--- | :--- |
 | [Python-DSA-Platform](https://github.com/laesf/Python-DSA-Platform) | Red-Black Tree, BST, three hash table strategies, BFS/DFS, topological sort, Kruskal, Dijkstra, timing benchmarks | Python, Tkinter, matplotlib |
 | [food-delivery-database](https://github.com/laesf/food-delivery-database) | 13-table relational schema with 11 triggers: order totals, allergen checks, review rules, rider workload | MySQL / MariaDB |
-| [ExtIO](https://github.com/laesf/ExtIO) | Desktop archive extractor with background extraction, progress reporting and optional 7z/RAR support | Python, Tkinter |
-| [Analysis-PCA-SVM](https://github.com/laesf/Analysis-PCA-SVM) | PCA variance analysis and an SVM classifier on the Digits dataset | Python, scikit-learn |
+| [ExtIO](https://github.com/laesf/ExtIO) | Desktop archive extractor with background extraction, progress reporting and optional 7z/RAR support | Python, PySide6 (Qt) |
+| [Analysis-PCA-SVM](https://github.com/laesf/Analysis-PCA-SVM) | PCA and SVM classification of the scikit-learn Digits dataset, with component selection through cross-validation | Python, scikit-learn |
 
 #### Tools
 
-Python · scikit-learn · NumPy · matplotlib · Tkinter · SQL (MySQL/MariaDB) · Git
+Python · scikit-learn · NumPy · matplotlib · Tkinter · PySide6 (Qt) · SQL (MySQL/MariaDB) · Git
